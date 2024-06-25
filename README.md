@@ -15,7 +15,7 @@
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    </div>
 
-<h1 align="center">Redes Sociais</h1>
+<h1 align="center">Social Media</h1>
     <a href = "mailto: guilhermepxt04@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
