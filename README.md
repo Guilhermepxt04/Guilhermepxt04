@@ -2,9 +2,7 @@
 
 <div>
 
-<div>
-<p style="color: #fff; font-size: 25px; font-weight: 500">Desenvolvedor Back-end💻</p>
-</div>
+
 
   <img align="left" height="110em" src="https://github-readme-stats.vercel.app/api?username=Guilhermepxt04&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img align="right" height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermepxt04&layout=compact&langs_count=16&theme=midnight-purple"/>
