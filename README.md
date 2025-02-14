@@ -13,7 +13,6 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 <br><br>
     <h1 align="center">Tech Skills </h1>
     <img align="center" height="30" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -29,3 +28,7 @@
     <a href="https://www.linkedin.com/in/guilherme-peixoto-266038208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     <a href="https://web.dio.me/users/Guilherme_pxt04?tab=achievements" ><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70"></a>
   </div>
 
+   <h1 align="center">BootCamps e Cursos</h1>
+   <div>
+     <a href = "https://web.dio.me/track/bradesco-java-cloud-native"><img align="center" src="https://assets.dio.me/gtGzPV8NsIv4KxjbqlOu5eK8TsjR2-U43wkoceO-GTU/f:webp/h:120/q:80/L3RyYWNrcy9jNGYyODU5ZS04MjY0LTRiNDEtODQxOS1kZGJhNmU4MTdjNmIucG5n" ></a>
+   </div>
