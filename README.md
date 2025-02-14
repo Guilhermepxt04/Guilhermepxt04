@@ -6,7 +6,7 @@
 <p style="color: #fff; font-size: 25px; font-weight: 500">Desenvolvedor Back-end💻</p>
 </div>
 
-  <img  height="110em" src="https://github-readme-stats.vercel.app/api?username=Guilhermepxt04&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="left" height="110em" src="https://github-readme-stats.vercel.app/api?username=Guilhermepxt04&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img align="right" height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermepxt04&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
@@ -14,6 +14,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
 <br><br>
+    <img align="center" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
     <h1 align="center">Tech Skills </h1>
     <img align="center" height="30" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -24,11 +25,14 @@
 
    <h1 align="center">Social Media</h1>
    <div> 
-    <a href = "mailto: guilhermepxt04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/guilherme-peixoto-266038208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     <a href="https://web.dio.me/users/Guilherme_pxt04?tab=achievements" ><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70"></a>
+    <a href = "mailto: guilhermepxt04@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/guilherme-peixoto-266038208/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
+    <a href="https://web.dio.me/users/Guilherme_pxt04?tab=achievements" ><img align="center" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70"></a>
   </div>
 
    <h1 align="center">BootCamps e Cursos</h1>
    <div>
      <a href = "https://web.dio.me/track/bradesco-java-cloud-native"><img align="center" src="https://assets.dio.me/gtGzPV8NsIv4KxjbqlOu5eK8TsjR2-U43wkoceO-GTU/f:webp/h:120/q:80/L3RyYWNrcy9jNGYyODU5ZS04MjY0LTRiNDEtODQxOS1kZGJhNmU4MTdjNmIucG5n" ></a>
+     <a href = "https://www.udemy.com/course/java-curso-completo"><img align="center" height="80" width="80" src="https://img-c.udemycdn.com/course/750x422/1701388_0134.jpg" ></a>
+     
    </div>
