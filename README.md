@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello+world!+Guilherme+here%2C+welcome" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello+world!+Guilherme+here%2C+welcome" alt="Typing SVG" /></a>
 
 <div>
 
@@ -18,7 +18,8 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="compute" src="compute.gif">
+    <img align="left" <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+<br><br>
     <h1 align="center">Tech Skills </h1>
     <img align="center" height="30" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
