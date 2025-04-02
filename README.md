@@ -28,9 +28,7 @@
     <a href="https://web.dio.me/users/Guilherme_pxt04?tab=achievements" ><img align="center" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70"></a>
   </div>
 
-   <h1 align="center">BootCamps e Cursos</h1>
+   <h1 align="center">Certificados</h1>
    <div>
-     <a href = "https://web.dio.me/track/santander-2025-java-back-end"><img align="center" src="https://assets.dio.me/6iWxMIqRQwzNNp-T1BWjzclAc7OVa8-YXojJ0uH4uEc/f:webp/h:120/q:80/L3RyYWNrcy8yOWFkMDFkYS0zNGIyLTQzYzItODBlYi1iNTJmNTExNTM2ZjgucG5n" ></a>
      <a href = "https://www.udemy.com/course/java-curso-completo"><img align="center" height="80" width="80" src="https://img-c.udemycdn.com/course/750x422/1701388_0134.jpg" ></a>
-     
    </div>
