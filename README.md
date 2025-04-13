@@ -26,6 +26,6 @@
    <h1 align="center">Social Media</h1>
    <div> 
     <a href = "mailto: guilhermepxt04@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="www.linkedin.com/in/guilherme-peixoto-dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
+    <a href="www.linkedin.com/in/guilherme-peixoto-dev" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
     <a href="https://web.dio.me/users/Guilherme_pxt04?tab=achievements" ><img align="center" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70"></a>
   </div>
