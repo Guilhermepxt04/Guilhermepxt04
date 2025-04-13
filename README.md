@@ -22,6 +22,5 @@
 
    <h1 align="center">Social Media</h1>
    <div> 
-    📫 <strong>Contato:</strong> <a href="mailto:guilhermepxt04@gmail.com">guilhermepxt04@gmail.com</a><br>   
     <a href="https://www.linkedin.com/in/guilherme-peixoto-dev"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
