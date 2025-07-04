@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello+world!+Guilherme+here%2C+welcome" alt="Typing SVG" /></a>
 
 <div>
-  <img align="left" height="110em" src="https://github-readme-stats.vercel.app/api?username=Guilhermepxt04&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="left" height="110em" src="https://github-readme-stats.vercel.app/api?username=Guilhermepxt04&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false"/>
   <img align="right" height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermepxt04&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
