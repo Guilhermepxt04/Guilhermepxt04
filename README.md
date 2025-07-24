@@ -4,7 +4,7 @@
   <h1> About me 👋</h1>
   <p>Sou um profissional com experiência em Infraestrutura de TI, apaixonado por back-end e automação. Minha atuação como suporte técnico me proporcionou experiência em solução de problemas de hardware e software, além de desenvolvimento de automações com Python, MySQL, Linux e GCP.
 
-Domino Python para automação de tarefas (RPA), como demonstrei no <a href="https://github.com/Guilhermepxt04/python-rpa-notas-fiscais-gr" target="_blank" rel="external"> projeto de lançamento de notas fiscais </a>, que reduziu o tempo do processo em mais de 50%.
+Domino Python para automação de tarefas (RPA), como demonstrei no <a href="https://github.com/Guilhermepxt04/python-rpa-notas-fiscais-gr" rel="external"> projeto de lançamento de notas fiscais </a>, que reduziu o tempo do processo em mais de 50%.
 
 Estou aprofundando meus conhecimento em Java e AWS para vagas e projetos de Back-end 
 
@@ -35,5 +35,5 @@ Sempre em busca de novos conhecimentos e desafios para aprimorar minhas competê
    
 <div align="center"> 
     <h1>Social Media ✉️</h1>
-    <a href="https://www.linkedin.com/in/guilherme-peixoto-dev" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/guilherme-peixoto-dev" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
