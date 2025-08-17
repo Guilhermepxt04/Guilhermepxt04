@@ -23,6 +23,8 @@ Sempre em busca de novos conhecimentos e desafios para aprimorar minhas competê
     <img height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img height="30" width="40" alt="aws-icon" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
     <img height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
+    <img height="30" width="40" alt="ubuntu-icon" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg">
+    <img height="30" width="40" alt="figma-icon" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg">
 </div>
 
 <div>
