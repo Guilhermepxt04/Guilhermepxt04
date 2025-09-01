@@ -28,19 +28,19 @@ Sempre em busca de novos conhecimentos e desafios para aprimorar minhas competê
 </div>
 
 <div>
+  <h1 align="center"> Certificações 🏅</h1>
+  <a href="https://www.credly.com/badges/b9a2f590-40f7-43ce-abda-0771e0520c53/public_url" rel="external" target="_blank"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
+</div>
+
+<div>
   <h1 align="center"> Github Stats ✨</h1>
   <img align="left" height="110em" src="https://github-readme-stats.vercel.app/api?username=Guilhermepxt04&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false"/>
   <img height="110em" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
   <img align="right" height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermepxt04&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
-<div>
-  <h1 align="center"> Certificações 🏅</h1>
-  <a href="https://www.credly.com/badges/b9a2f590-40f7-43ce-abda-0771e0520c53/public_url" rel="external"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
-</div>
 
-   
 <div align="center"> 
     <h1>Social Media ✉️</h1>
-    <a href="https://www.linkedin.com/in/guilherme-peixoto-dev" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/guilherme-peixoto-dev" rel="external" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
