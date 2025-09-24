@@ -6,7 +6,7 @@
 
 Domino Python para automação de tarefas (RPA), como demonstrei no <a href="https://github.com/Guilhermepxt04/python-rpa-notas-fiscais-gr" rel="external"> projeto de lançamento de notas fiscais </a>, que reduziu o tempo do processo em mais de 50%.
 
-Estou aprofundando meus conhecimento em Java e AWS para vagas e projetos de Back-end 
+Estou aprofundando meus conhecimento em Java, AWS e MongoDB para vagas e projetos de Back-end 
 
 Sempre em busca de novos conhecimentos e desafios para aprimorar minhas competências.
 
@@ -18,13 +18,16 @@ Sempre em busca de novos conhecimentos e desafios para aprimorar minhas competê
     <h1> Tech Stacks 🤖</h1>
     <img height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img height="30" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
     <img height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img height="30" width="40" alt="html5-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img height="30" width="40" alt="css3-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img height="30" width="40" alt="aws-icon" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
     <img height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
-    <img height="30" width="40" alt="ubuntu-icon" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg">
+    <img height="30" width="40" alt="css3-icon" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg">
+    
 </div>
 
 <div>
