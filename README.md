@@ -13,25 +13,6 @@
 
 </div>
 
-<div align="center">
-  <h1>🌟 Principais Projetos</h1>
-  <p>Aqui estão as provas do meu conhecimento em ação.</p>
-  
-    <p>
-    <strong><a href="https://linktr.ee/eyegenesis" rel="external">1. EyeGen</a>:</strong><br>
-    Solução de tecnologia assistiva (óculos inteligentes) para auxiliar pessoas com deficiência visual a identificar objetos e ler textos.
-  </p>
-  <p>
-    <strong><a href="https://github.com/Guilhermepxt04/python-rpa-notas-fiscais-gr" rel="external">2. RPA - Lançamento de Notas Fiscais</a>:</strong><br>
-    Automação que otimizou o processo de lançamento manual de notas fiscais, reduzindo o tempo do processo em mais de 50% no Grupo GR.
-  </p>
-  <p>
-    <strong><a href="https://github.com/Guilhermepxt04/gemini-maps-chatbot" rel="external">3. Rota Acessível</a>:</strong><br>
-    Chatbot focado em trazer informações de turismo acessível com integração com a API do Gemini e Google Maps.
-  </p>
-</div>
-
-
 <div align="center"> 
   <div style="display: inline_block">
     <h1>🤖 Minhas Ferramentas</h1>
